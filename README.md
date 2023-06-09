@@ -14,7 +14,7 @@ http://localhost/qr-code
 ```    
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/php-tpl/main/Screenshots/Output.png)
+![](https://raw.githubusercontent.com/codehafeez/qr-code/main/Screenshots/Output.png)
 
 
 ## 🔗 www.codehafeez.com
